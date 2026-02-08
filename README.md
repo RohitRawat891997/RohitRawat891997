@@ -2,7 +2,7 @@
 <h3 align="center"> Passionate DevOps Engineer | Cloud | Kubernetes | DevSecOps</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mandhar-patil&label=Profile%20views&color=0e75b6&style=flat" alt="mandhar-patil" />
+  <img src="https://komarev.com/ghpvc/?username=rohit-rawat&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-rawat" />
 </p>
 
 ---
