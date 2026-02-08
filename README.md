@@ -24,12 +24,19 @@
 
 <p align="center">
   <a href="mailto:rohitrawat891997@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email Rohit Rawat"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/rohit-rawat-7383091a7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/rohit-rawat-7383091a7/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Rohit Rawat LinkedIn"
+    />
   </a>
 </p>
+
 
 ---
 
