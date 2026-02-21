@@ -22,19 +22,46 @@
 
 ## 🌐 Connect With Me
 
+<!-- 🔥 DEVOPS GLASSMORPHISM HEADER -->
+
 <p align="center">
-  <a href="mailto:rohitrawat891997@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email Rohit Rawat"
-    />
+
+  <!-- Animated DevOps Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Rohit+Rawat;DevOps+Engineer+%7C+RHCSA+Learner;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Cloud" alt="Typing SVG" />
+
+</p>
+
+<p align="center">
+
+  <!-- Visitor Counter (Dark/Light Compatible) -->
+  <img src="https://komarev.com/ghpvc/?username=RohitRawat891997&style=for-the-badge&color=blue" alt="Profile Views"/>
+
+</p>
+
+<!-- 🌫️ Glassmorphism Style Contact Badges -->
+<p align="center">
+
+  <a href="mailto:rohitrawat89199@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00000020" />
   </a>
-  <a href="https://www.linkedin.com/in/rohit-rawat-7383091a7/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Rohit Rawat LinkedIn"
-    />
+
+  <a href="https://www.linkedin.com/in/rohit-rawat-7383091a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00000020" />
   </a>
+
+  <a href="https://github.com/RohitRawat891997">
+    <img src="https://img.shields.io/badge/GitHub-1F2328?style=for-the-badge&logo=github&logoColor=white&labelColor=00000020" />
+  </a>
+
+  <a href="https://hub.docker.com/u/rohitrawat891997">
+    <img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=00000020" />
+  </a>
+
+</p>
+
+<!-- ⚡ DevOps Animated Icons (Dark/Light Friendly) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,jenkins,terraform,ansible,git,githubactions,aws&theme=light" />
 </p>
 
 
