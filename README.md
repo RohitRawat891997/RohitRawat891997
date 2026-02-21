@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohit Rawat </h1>
-<h3 align="center"> Passionate DevOps Engineer | Cloud | Kubernetes | DevSecOps</h3>
+<h3 align="center">Passionate DevOps Engineer | Cloud | Kubernetes | DevSecOps</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohit-rawat&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-rawat" />
+  <img src="https://komarev.com/ghpvc/?username=RohitRawat891997&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-rawat" />
 </p>
 
 ---
@@ -16,54 +16,34 @@
 - 👨‍💻 All my work:  
   **GitHub:** https://github.com/RohitRawat891997  
   **LinkedIn:** https://www.linkedin.com/in/rohit-rawat-7383091a7/
-- 📫 Reach me at: **rohitrawat891997@gmail.com**
+- 📫 Reach me at: **rohitrawat89199@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 
-<!-- 🔥 DEVOPS GLASSMORPHISM HEADER -->
-
 <p align="center">
-
-  <!-- Animated DevOps Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Rohit+Rawat;DevOps+Engineer+%7C+RHCSA+Learner;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Cloud" alt="Typing SVG" />
-
 </p>
 
 <p align="center">
-
-  <!-- Visitor Counter (Dark/Light Compatible) -->
-  <img src="https://komarev.com/ghpvc/?username=RohitRawat891997&style=for-the-badge&color=blue" alt="Profile Views"/>
-
-</p>
-
-<!-- 🌫️ Glassmorphism Style Contact Badges -->
-<p align="center">
-
   <a href="mailto:rohitrawat89199@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00000020" />
   </a>
-
   <a href="https://www.linkedin.com/in/rohit-rawat-7383091a7/">
     <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00000020" />
   </a>
-
   <a href="https://github.com/RohitRawat891997">
     <img src="https://img.shields.io/badge/GitHub-1F2328?style=for-the-badge&logo=github&logoColor=white&labelColor=00000020" />
   </a>
-
   <a href="https://hub.docker.com/u/rohitrawat891997">
     <img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=00000020" />
   </a>
-
 </p>
 
-<!-- ⚡ DevOps Animated Icons (Dark/Light Friendly) -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,jenkins,terraform,ansible,git,githubactions,aws&theme=light" />
 </p>
-
 
 ---
 
@@ -119,5 +99,6 @@
 <!-- Logging -->
 <img src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/logstash.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.co
+<img src="https://cdn.worldvectorlogo.com/logos/kibana.svg" width="40"/>
 
+</p>
