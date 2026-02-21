@@ -22,9 +22,6 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Rohit+Rawat;DevOps+Engineer+%7C+RHCSA+Learner;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Cloud" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="mailto:rohitrawat89199@gmail.com">
@@ -41,9 +38,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,jenkins,terraform,ansible,git,githubactions,aws&theme=light" />
-</p>
 
 ---
 
